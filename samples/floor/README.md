@@ -14,3 +14,6 @@ The model will be generated under <project_root_dir>/logs. Use this model or a p
 ```
 python3 floor.py detect --weights=/path/to/model --image=/path/to/the/image/to/detect --dataset=/path/to/your/dataset
 ```
+
+## Result
+![alt text](result.png "Title")
